@@ -27,7 +27,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=${{ github.repository_owner }}&langs_count=8&layout=compact&theme=radical
+          options: username=teh_coderer&langs_count=8&layout=compact&theme=radical
           path: profile/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
