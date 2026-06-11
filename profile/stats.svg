@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">teh_coderer's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 26, Total Commits  (last year) : 451, Total PRs: 1108, Total Issues: 0, Contributed to (last year): 14</desc>
+        <desc id="descId">Total Stars Earned: 26, Total Commits  (last year) : 451, Total PRs: 1109, Total Issues: 0, Contributed to (last year): 14</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 96.43304080668929;
+        stroke-dashoffset: 96.43304062210116;
       }
     }
   
