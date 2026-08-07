@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=radical&include_all_commits=true&number_format=long&show=prs_merged_percentage,prs_reviewed
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&number_format=long&show=prs_merged_percentage,prs_reviewed
           path: profile/stats.svg
           token: ${{ secrets.PAT }}
 
