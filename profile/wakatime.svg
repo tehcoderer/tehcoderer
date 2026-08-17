@@ -208,7 +208,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript - 4,033 hrs 25 mins
+        TypeScript - 4,033 hrs 35 mins
       </text>
     </g>
   
