@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">teh_coderer&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 74875, Total Commits  : 9646, Total PRs: 1136, Merged PRs Percentage: 92.61, Total Issues: 0, PRs Reviewed: 400, Contributed to (last year): 16</desc>
+        <desc id="descId">Total Stars Earned: 74908, Total Commits  : 9646, Total PRs: 1137, Merged PRs Percentage: 92.52, Total Issues: 0, PRs Reviewed: 398, Contributed to (last year): 16</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 29.107514469181677;
+        stroke-dashoffset: 29.10748973135735;
       }
     }
   
@@ -162,7 +162,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >74875</text>
+      >74908</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >1136</text>
+      >1137</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >92.61 %</text>
+      >92.52 %</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -237,7 +237,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_reviewed"
-      >400</text></a>
+      >398</text></a>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
