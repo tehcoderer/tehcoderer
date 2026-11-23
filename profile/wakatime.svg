@@ -259,7 +259,7 @@
     <g transform="translate(25, 100)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Docker - 53 hrs 5 mins
+        Docker - 53 hrs 6 mins
       </text>
     </g>
   
